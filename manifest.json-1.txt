@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "formy5683-sudo.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "formy5683-sudo.github",
+  "start_url": "/https://formy5683-sudo.github.io/glyxproj/",
+  "theme_color": "#ffffff"
+}
